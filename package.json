@@ -1,0 +1,15 @@
+{
+  "name": "paycode_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "paycode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node paycode.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
